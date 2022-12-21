@@ -1,0 +1,189 @@
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\appsettings.json
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.exe
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.deps.json
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.runtimeconfig.json
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.pdb
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.csproj.AssemblyReference.cache
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.AssemblyInfoInputs.cache
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.AssemblyInfo.cs
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.csproj.CoreCompileInputs.cache
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\scopedcss\bundle\EmployeeMgt.styles.css
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.csproj.CopyComplete
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\refint\EmployeeMgt.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.pdb
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.genruntimeconfig.cache
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\obj\Debug\net6.0\ref\EmployeeMgt.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\libman.json
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yazan Nazzal\source\repos\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\appsettings.Development.json
+E:\Net\Employee\Employee\bin\Debug\net6.0\appsettings.json
+E:\Net\Employee\Employee\bin\Debug\net6.0\libman.json
+E:\Net\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.exe
+E:\Net\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.deps.json
+E:\Net\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.runtimeconfig.json
+E:\Net\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.pdb
+E:\Net\Employee\Employee\bin\Debug\net6.0\Humanizer.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Net\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.csproj.AssemblyReference.cache
+E:\Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.AssemblyInfoInputs.cache
+E:\Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.AssemblyInfo.cs
+E:\Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.csproj.CoreCompileInputs.cache
+E:\Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.MvcApplicationPartsAssemblyInfo.cs
+E:\Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.MvcApplicationPartsAssemblyInfo.cache
+E:\Net\Employee\Employee\obj\Debug\net6.0\staticwebassets.build.json
+E:\Net\Employee\Employee\obj\Debug\net6.0\staticwebassets.development.json
+E:\Net\Employee\Employee\obj\Debug\net6.0\scopedcss\bundle\EmployeeMgt.styles.css
+E:\Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.csproj.CopyComplete
+E:\Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.dll
+E:\Net\Employee\Employee\obj\Debug\net6.0\refint\EmployeeMgt.dll
+E:\Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.pdb
+E:\Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.genruntimeconfig.cache
+E:\Net\Employee\Employee\obj\Debug\net6.0\ref\EmployeeMgt.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\appsettings.Development.json
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\appsettings.json
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\libman.json
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.exe
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.deps.json
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.runtimeconfig.json
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\EmployeeMgt.pdb
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Humanizer.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repos\Dot_Net\Employee\Employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.csproj.AssemblyReference.cache
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.AssemblyInfoInputs.cache
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.AssemblyInfo.cs
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.csproj.CoreCompileInputs.cache
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.MvcApplicationPartsAssemblyInfo.cs
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.MvcApplicationPartsAssemblyInfo.cache
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\staticwebassets.build.json
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\staticwebassets.development.json
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\scopedcss\bundle\EmployeeMgt.styles.css
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.csproj.CopyComplete
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.dll
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\refint\EmployeeMgt.dll
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.pdb
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\EmployeeMgt.genruntimeconfig.cache
+C:\Repos\Dot_Net\Employee\Employee\obj\Debug\net6.0\ref\EmployeeMgt.dll
